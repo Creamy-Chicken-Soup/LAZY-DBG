@@ -1,7 +1,7 @@
 # LAZY-DBG
-Some code for lazy \
+Some code for lazy 
 
-## LazyKernelWindbg:##\
+## LazyKernelWindbg:##
 A powershell code for automatically run windbg and set kernel COM connection.\
 Usage :\
 1. open code and set your windbg x86/64 path and Pipe name.\
